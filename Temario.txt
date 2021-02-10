@@ -1,0 +1,34 @@
+Yhon Jerson Robles Puentes
+3209087645
+yhon.robles@usco.edu.co
+
+16:30 - 18:45
+
+1.Repaso Java
+2.Instalación de PHP, programación básica
+3.Formularios
+4.Formularios dinámicos
+5.Arrays
+6.Archivos planos
+7.Sesiones
+8.Bases de Datos Mysql y Postgresql
+9.Reportes por PDF
+10.Librerias de graficos
+
+Proyecto: creación de sitio web dinámico
+
+Bibliografia
+
+Desarrollo de aplicaciones web con php - Macro
+Php creación de páginas web dinámicas - Alfaomega
+
+Forma de calificar
+1 Nota final, promedio de notas
+Programa para hacer en casa
+Examen en la plataforma de sakai
+
+Las herramientas se pueden encontrar en 
+Appserv appserv.org/en/download
+Xampp apachefriends.org/es/download.html
+
+

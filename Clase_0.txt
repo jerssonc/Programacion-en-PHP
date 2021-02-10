@@ -1,0 +1,78 @@
+Operadores Matemáticos
+
+()
+numero = pow(base, exponente) 
+*, /, %
++, -
+++, --
++=, /=, %=, -=
+
+Operadores relacionales
+
+<,>,<=,>=, ==, !=
+
+Operadores lógicos
+
+&&, ||, !
+
+Variables en php
+
+$variable = 23;
+$var = 18.8;
+$var = "Yhon Jerson";
+$var = false;
+
+Condicionales en php
+
+Condicional simple
+if()
+{
+}
+
+Condicional doble
+if()
+{
+}else
+{
+}
+
+Condicionales múltiples
+if()
+{
+} else
+{
+	if()
+	{
+	}else{}
+}
+
+Switch()
+{
+case 1: senten;
+	break;
+case 2: senten;
+	break;
+case 3: senten;
+	break;
+.
+.
+.
+case n: senten;
+	break;
+default: senten;
+}
+
+Ciclos en PHP
+
+while(condicion){
+
+} 
+
+do{
+}while(condicion);
+
+for(iniciación; condición; cambio){
+senten;
+}
+
+
