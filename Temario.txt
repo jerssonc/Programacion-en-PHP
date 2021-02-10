@@ -27,7 +27,7 @@ Forma de calificar
 Programa para hacer en casa
 Examen en la plataforma de sakai
 
-Las herramientas se pueden encontrar en 
+Herramientas
 Appserv appserv.org/en/download
 Xampp apachefriends.org/es/download.html
 
