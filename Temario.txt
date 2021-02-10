@@ -31,4 +31,5 @@ Las herramientas se pueden encontrar en
 Appserv appserv.org/en/download
 Xampp apachefriends.org/es/download.html
 
-
+Donde encontrar los archivos y códigos usados en clase
+http://www.cisconeiva.com/usco/php/
